@@ -1,2 +1,10 @@
 # udacity-cloud-dev-project-1
-Deploy Static Website on AWS
+
+### Overview 
+- Build as a part of Udacity Cloud Developer Nanodegree
+- Deploy Static Website on AWS
+- Services used: S3 and CloudFront 
+
+README.txt includes the CloudFront distribution URL
+
+
